@@ -1,0 +1,198 @@
+url: https://medium.com/onebigthought/leadership-is-a-research-project-be0a2fda616f
+
+Judd Antin
+
+Follow
+
+One Big Thought
+
+--
+
+39
+
+Listen
+
+Share
+
+Update: As promised, here is the (abridged) course syllabus for those who are interested!
+
+This semester they’re letting me teach a course on leadership at UC Berkeley’s School of Information. I know, right? I’m pretty dern excited to be doing it, but I can tell you, putting this course together has been a daunting task.
+
+How does one distill so much available leadership material into something useful? Material which is broadly applicable across disciplines and industries. Which captures a practical POV — mostly mine, but also borrowed from mentors, teachers, and colleagues — without being overly prescriptive. And which gives students a (hopefully) strong foundation for successful leadership and growth.
+
+Ugh. Unreasonably high bar. Trip. Fall. Get up again.
+
+Now that classes are about to begin, though, I think I’ve got a reasonable handle on it. But nothing happens linearly. The best narratives are retrospective because the organizing principles are often implicit at first, like the pieces of a puzzle revealing the picture only as they’re assembled.
+
+So, it’s only now that can I confidently state the main thesis of the course, which also happens to neatly capture the approach I practiced for more than a dozen years:
+
+Leadership is a research project.
+
+In fact, let’s just call it The Project. It’s a little (lot?) grandiose, I’ll grant you, but let’s go with it.
+
+The best leaders — regardless of seniority or role — are also tireless investigators of the humans around them. Social dynamics get their constant attention, and are the key thing they use to do their jobs well. They build on existing knowledge rather than just relying on intuition. They use the insights they discover to guide, to communicate, and to decide. And they do that constantly, indefinitely.
+
+The idea that The Project should mostly be focused on humans is not as obvious as you might think. Many leaders want to be technical experts — highly knowledgeable about the exact topics that are required to build their product and their business — and thus focused on research there.
+
+We tend to deify the subject-matter expert (SME) leader, but it’s hardly required. And in fact it can be a damaging distraction. I’ve had experience with SME leaders who thought staying close to the product was their primary virtue. In fact, they were so lost in the weeds they forgot to spend time on, you know… leading.
+
+Another celebrated leadership narrative is that its all about vision and innovation. Leadership research should be focused on markets, competitors, and strategy. I’d agree those things are important. But good leaders invent vision very rarely, bad ones cause chaos and waste by reinventing it constantly. Innovation is a part-time job but execution is a full-time job.
+
+And execution is what The Project is about. Technical excellence, vision, and innovation to a small degree, and helping teams of people to do great things to a large degree.
+
+The key argument here is that The Project is what separates good leaders from bad. It isn’t just knowing how social dynamics work but knowing how to leverage them to make things happen faster, better, more smoothly, together. It’s having the curiosity and the humility to bring others to the forefront of how you lead.
+
+What are we researching again? People. Right. Our bosses, reports, and colleagues. But what is it that we want to know?
+
+Certainly engaged leaders should get to know their work-mates on a personal level because (as countless seminars have dutifully explained) investment in authentic personal relationships builds trust and improves communication.
+
+But The Project goes much deeper. As a leader, we need to learn about our colleagues’ histories, their goals. What’s hard about their jobs? What do they love? What keeps them up at night? We need to know these things to effectively guide, support, and communicate. Helping people grow, guiding round pegs towards round holes requires us to know.
+
+We also need to look into interpersonal dynamics, including the ones that happen when we’re not around. Who works well with whom? Which skills and approaches are complementary? Who can combine to make a great team? Are there rivalries, animosities, friendships, and favorites? Where do they come from?
+
+Communication is a crucial input to the The Project. How do our colleagues talk to us and to each other? How do they frame their ideas, and what drives those framings? What is their approach to groups — to meetings, to collaborative decisions, and teamwork?
+
+So much to learn, so little time! Good thing we don’t have to start from scratch.
+
+Good research never starts in a vacuum. We’re standing on the shoulders of giants. We’re using insights, tools, methods, and approaches that have been refined over decades. And we’re fitting our evidence into frameworks that help us make sense of it.
+
+And that’s how (whether I knew it or not at the time) I built this syllabus. What do we need to know in order to dive into The Project — to ask better questions, more effectively understand the answers, and then take action?
+
+Doing that got me to topics like:
+
+Having someplace to start with all these questions, I hope, will give students a way to decode their work environments. Once we know about things like trust, influence, and persuasion, so many work interactions make more sense. Once we have a foundation in judgment and decision-making, the way towards consensus (or at least out of the logjam) on next quarter’s product roadmap gets much clearer. These examples (and many more like them) are the everyday meat of leadership, not the sexy stuff we read about and glorify.
+
+Even with a firm foundation of knowledge, The Project is not straightforward. All the same things that separate bad research and stereotypes about research from high quality, rigorous research about users and customers apply.
+
+One needs to be thoughtful — because garbage in, garbage out. Throwing together a badly designed customer survey (NPS anyone?) or asking users a bunch of random interview questions will generally be a waste of time. Good research requires rigor, time, and lots of thought. So does The Project.
+
+Listening is important — it’s one of the oldest saws of leadership. Great leaders listen and so should you. But it’s not enough for The Project. It’s not fair to rely on your colleagues to tell you exactly what they need or what you need to hear. Some people aren’t willing or able to answer direct questions with direct answers. It’s true of users, and it’s true of your colleagues too.
+
+You need to ask better questions, and do it without grilling people. Get beyond the superficial. In other words, get really good at research probes. The whys and the hows, the underlying ideas, values, and motivations. The things that are hard to say, but that you piece together by keenly observing patterns over time.
+
+The evidence comes from everywhere too. Words are powerful. What people say and how they say it. When people choose to speak. But also silence — the people who don’t speak and the things left unsaid. Learning to decode all that takes practice.
+
+Non-verbal communication often tells the story of collaboration. Bodies, faces, and voices reveal things that people didn’t know themselves. Often without those people knowing they’ve given it away. The Project requires us to be constantly observant (without being creepy).
+
+The thing is, The Project is necessarily subtle. Charging around the office with a magnifying glass, interrogating your colleagues like some kind of idiot Sherlock Holmes is not going to work. The theory is, once you have a foundation of knowledge, you start to see the social dynamics everywhere. The Project becomes a part of all your daily interactions in small ways. And you become wildly more effective as a leader.
+
+If you’re in the research field, all this might be second nature to you. For others, it’s a new set of techniques to build. That is, if you knew you had to build them.
+
+When I started working as a leader, no one told me I was supposed to be doing it. No one explained that The Project is how good leadership really happens in practice. No one spelled out that the difference between good and bad leaders is often about how much of The Project they’re paying attention to.
+
+Researchers should be great at this. Insights oriented designers, writers, data scientists, PMs, engineers… they should be great too. But I have found that for many (especially researchers) their gaze is too focused outwards. The idea that a good leader also needs to be focused inwards — on colleagues not just on customers — doesn’t come naturally. The Project doesn’t have a roadmap or OKRs, but it’s just as crucial to the succcess of the business.
+
+The thing is, great work rarely speaks for itself. Sorry — it doesn’t. To be successful you do have to do great work, but you also have to position that work for success. It has to show up in the right place, at the right time, and be aligned with the right people. It’s usually not something you did, at least not by yourself. It’s something you deftly guided a group of people towards.
+
+To do all that well, you need The Project. Because as they say — if you want to go fast, go alone, but if you want to go far, go together.
+
+I will share the course syllabus in a follow-up post soon, and I’ll write about the topics we discuss as the semester progresses.
+
+If you liked this, there’s more where that came from. Check out my newsletter One Big Thought. Sign up to get email updates here. Send me an email at judd@onebigthought.com.
+
+--
+
+--
+
+39
+
+One Big Thought
+
+Consultant, advisor, writer, teacher on leadership, management, design, research, social psychology — Ex-Airbnb, Ex-Meta, Ex-Yahoo — https://juddantin.com
+
+Judd Antin
+
+in
+
+One Big Thought
+
+--
+
+33
+
+Judd Antin
+
+in
+
+One Big Thought
+
+--
+
+7
+
+Judd Antin
+
+in
+
+One Big Thought
+
+--
+
+28
+
+Judd Antin
+
+in
+
+One Big Thought
+
+--
+
+45
+
+Nick Hilton
+
+--
+
+128
+
+Nina Lazic
+
+--
+
+5
+
+Mirijam Missbichler
+
+--
+
+152
+
+AL Anany
+
+--
+
+147
+
+Hugh McGuire
+
+--
+
+326
+
+Julie Zhuo
+
+--
+
+5
+
+Help
+
+Status
+
+Writers
+
+Blog
+
+Careers
+
+Privacy
+
+Terms
+
+About
+
+Text to speech
+
+Teams
+
